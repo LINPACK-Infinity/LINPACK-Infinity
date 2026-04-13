@@ -1,6 +1,6 @@
 # Philipp Linnerz
 
-Physician by training with a focus on medical AI, document intelligence, and local-first clinical research tooling.
+Medical doctor with additional training in Data Science and Python, focused on medical AI, document intelligence, and clinical review systems.
 
 ## Main focus
 - Medical document intelligence
